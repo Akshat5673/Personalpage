@@ -1,0 +1,36 @@
+body{
+  background-color:#bbe1fa;
+}
+h1{
+  color: green;
+
+}
+h3{
+  color: green;
+  padding-left: 50px;
+}
+hr{
+  border-style: dashed none none;
+  border-color: #596e79;
+  border-width: thin;
+  width: 8%;
+}
+.link:hover{
+  background-color: red;
+}
+div{
+  padding-left: 650px;
+  font-size: 20px;
+  font-style: oblique;
+}
+.c1
+{
+  padding-left: 500px;
+}
+.c7{
+  padding-left: 70px;
+}
+.c8{
+  padding-left: 0;
+  padding-right: 800px;
+}
